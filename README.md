@@ -1,6 +1,5 @@
 <h1 style="text-align:center">Hey there, Abdullah here</h1>
 
-
 <img src="https://akonitechnologies.co.uk/assets/img/rest/coding.gif">
 
 
@@ -9,6 +8,8 @@
 <p style="font-family:courier;">👯 Looking forward to participate in opensource community</p>
 <p style="font-family:courier;">🥅 2021 Goals: markdown my name on internet</p>
 <p style="font-family:courier;">💬 Ask me about: my software development</p>
-<p style="font-family:courier;">⚡ Fun fact: I love swimming and traveling to new places</p>
+<p style="font-family:courier;">⚡ Fun fact: I love playing cricket and traveling to new places</p>
+               
+<img src="https://media4.giphy.com/media/gh0RRgkTXedvF0pDc0/200.gif">
 
 <img src="https://github-readme-stats.vercel.app/api?username=rajput-abdullah&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
