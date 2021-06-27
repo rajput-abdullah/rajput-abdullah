@@ -1,5 +1,5 @@
 # Hola, I'm [Abdullah](https://abdullahmoavia.wixsite.com/abdullah) here! 👋 
-<img align="left"  src="https://camo.githubusercontent.com/ec3dd3ba7e307ec55df3105c916f41f328665f8bd07319dbf7de203dbc3c71c2/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d69616d706177616e266c6162656c3d566965777326636f6c6f723d626c7565267374796c653d706c6173746963">
+<img align="left"  src="https://res.cloudinary.com/practicaldev/image/fetch/s--xG1gcsyJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/h68x0up43hmknl5tjcww.jpg">
 
 <img align="center" src="https://akonitechnologies.co.uk/assets/img/rest/coding.gif">
 
