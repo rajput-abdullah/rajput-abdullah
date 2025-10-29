@@ -9,10 +9,10 @@
 <img align="right"  src="https://media4.giphy.com/media/gh0RRgkTXedvF0pDc0/200.gif" width="400" height="270" >
 
 
-<p align="left">🔭 I’m currently working in a startup as a Mobile App Developer.</p>
+<p align="left">🔭 I’m currently working in a startup as a Senior Mobile App Developer.</p>
 <p align="left">🌱 I’m learning everything 🤣</p>
 <p align="left">👯 Looking forward to participate in opensource community</p>
-<p align="left">🥅 2021 Goals: markdown my name on internet</p>
+<p align="left">🥅 2025 Goals : Complete my Msc Artificial Intelligence & be a part of Uk based Startup</p>
 <p align="left">💬 Ask me about: software development</p>
 <p align="left">😄 Pronouns: He/His</p>
 <p align="left">⚡ Fun fact: I love playing cricket and traveling to new places</p>
