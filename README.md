@@ -1,9 +1,6 @@
 <h2  align="center">Hi There 👋, I'm Abddulah<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h2>
 <p align="center">
-<img align="left"  src="https://res.cloudinary.com/practicaldev/image/fetch/s--xG1gcsyJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/h68x0up43hmknl5tjcww.jpg">
-
-
-
+  
 <h2>📖 About me:</h2>
 
 <h3>I'm a Flutter Developer, Open Source Contributor, Freelancer and Computer Scientist!</h3>
@@ -15,11 +12,12 @@
 <p align="left">👯 Looking forward to participate in opensource community</p>
 <p align="left">🥅 2025 Goals : Complete my Msc Artificial Intelligence & be a part of Uk based Startup</p>
 <p align="left">💬 Ask me about: software development</p>
-<p align="left">😄 Pronouns: He/His</p>
+<p align="left">😄 Pronouns: He/Him</p>
 <p align="left">⚡ Fun fact: I love playing cricket and traveling to new places</p>
 <h3><b>UPWORK:</b></h3> https://www.upwork.com/freelancers/~015875ed5dbc30ab7f
 <h3><b>LINKEDIN:</b></h3> https://www.linkedin.com/in/rajput-abdullah/
-[Abdullah](https://abdullahmoavia.wixsite.com/abdullah)
+<h3><b>PORTFOLIO:</b></h3> https://abdullahmoavia.wixsite.com/abdullah
+
 <br />
 
 ## 🔥 Contribution streak
