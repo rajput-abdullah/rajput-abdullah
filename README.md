@@ -16,11 +16,12 @@
 <p align="left">💬 Ask me about: software development</p>
 <p align="left">😄 Pronouns: He/His</p>
 <p align="left">⚡ Fun fact: I love playing cricket and traveling to new places</p>
-<h3><b>UPWORK:</b></h3> https://www.upwork.com/freelancers/~011d7f9a84227b2829
+<h3><b>UPWORK:</b></h3> https://www.upwork.com/freelancers/~015875ed5dbc30ab7f
+<h3><b>LINKEDIN:</b></h3> https://www.linkedin.com/in/rajput-abdullah/
 
 <br />
 
-## 🔥 My contribution streak
+## 🔥 Contribution streak
 
 <p>
   <a href="https://github.com/rajput-abdullah/github-readme-streak-stats">
