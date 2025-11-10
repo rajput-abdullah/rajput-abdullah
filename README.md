@@ -1,4 +1,4 @@
-<h2  align="center">Hi There 👋, I'm Abddulah<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h2>
+<h2  align="center">Hi There, I'm Abddulah<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h2>
 <p align="center">
   
 <h2>📖 About me:</h2>
