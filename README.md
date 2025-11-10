@@ -1,4 +1,5 @@
-# Hola, I'm [Abdullah](https://abdullahmoavia.wixsite.com/abdullah) here! 👋 
+<h2  align="center">Hi There 👋, I'm Abddulah<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h2>
+<p align="center">
 <img align="left"  src="https://res.cloudinary.com/practicaldev/image/fetch/s--xG1gcsyJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/h68x0up43hmknl5tjcww.jpg">
 
 
@@ -18,7 +19,7 @@
 <p align="left">⚡ Fun fact: I love playing cricket and traveling to new places</p>
 <h3><b>UPWORK:</b></h3> https://www.upwork.com/freelancers/~015875ed5dbc30ab7f
 <h3><b>LINKEDIN:</b></h3> https://www.linkedin.com/in/rajput-abdullah/
-
+[Abdullah](https://abdullahmoavia.wixsite.com/abdullah)
 <br />
 
 ## 🔥 Contribution streak
