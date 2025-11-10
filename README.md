@@ -23,8 +23,8 @@
 ## 🔥 My contribution streak
 
 <p>
-  <a href="https://github.com/lionuncle/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lionuncle#version3"/>
+  <a href="https://github.com/rajput-abdullah/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajput-abdullah#version3"/>
   </a>
 </p>
 
@@ -35,13 +35,13 @@
 <details>
   <summary>📊 GitHub Profile Stats</summary>
   <br/>
-  <a href="https://github.com/lionuncle/github-readme-stats"><img alt="AQIB's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lionuncle&show_icons=true&count_private=true&hide=" /></a>
+  <a href="https://github.com/rajput-abdullah/github-readme-stats"><img alt="Abdullah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rajput-abdullah&show_icons=true&count_private=true&hide=" /></a>
 </details>
 
 <details> 
   <summary>💻 Most used languages</summary>
   <br/>
-  <a href="https://github.com/lionuncle/github-readme-stats"><img alt="AQIB's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lionuncle&langs_count=10&layout=compact#" /></a>
+  <a href="https://github.com/rajput-abdullah/github-readme-stats"><img alt="Abdullah's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajput-abdullah&langs_count=10&layout=compact#" /></a>
   <br/>
 </details>
 
